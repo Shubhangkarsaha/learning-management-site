@@ -185,7 +185,7 @@ EMAIL_PASS=
 REDIS_URL=
 
 frontend/.env
-REACT_APP_API_URL=http://localhost:5000
+REACT_APP_API_URL=http://localhost:8000
 
 ▶️ Run the Project
 Backend
